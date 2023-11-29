@@ -1,4 +1,4 @@
-# How to run the App and the Docker
+# How to run the App and the Docker Container
 
 ## Run the app
 ```
